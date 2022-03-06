@@ -1,4 +1,4 @@
-# Regador
+# Rega Automática
 It's an irrigation automation system to control a pump and a solenoid valve.
   
 When the soil gets dry, the pump is turned on automatically.
